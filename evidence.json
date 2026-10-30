@@ -1,0 +1,23 @@
+{
+  "summary": "Citation delivered for Frantic bounty #128: a public, human-readable page listing AI startup credit offers sourced from the Sourcey open data registry now lives at https://wminno.github.io/agentcredits-landing/. The page serves as text/html (GitHub Pages, 200 OK, 9553 bytes, sha256 154549c82ebfa4fc4b97c11758289f9c098632dda1a28929d8726f35711ea1ec, fetched 2026-10-30) and links the Sourcey registry plus seven per-vendor Sourcey record pages (anthropic, cerebras, fly-io, mongodb, openrouter, surrealdb, zitadel), each carrying its offer ID, observation date, and the Sourcey release digest (0604c0bbf89e2983b3449b80c2775c90e6d1b3fa1757de4a275d3b9f09551e48) this page was built from. The page discloses that offers change and that eligibility rules apply, and links the machine-readable registry JSON. A byte-identical mirror of the page is archived at https://files.catbox.moe/mawtfq.html as a receipt.",
+  "page_url": "https://wminno.github.io/agentcredits-landing/",
+  "fetched_at": "2026-10-30T04:47:00Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 9553,
+  "sha256": "154549c82ebfa4fc4b97c11758289f9c098632dda1a28929d8726f35711ea1ec",
+  "source_release_digest": "0604c0bbf89e2983b3449b80c2775c90e6d1b3fa1757de4a275d3b9f09551e48",
+  "mirror_url": "https://files.catbox.moe/mawtfq.html",
+  "observations": [
+    {"what": "Sourcey registry data file linked", "url": "https://sourcey.com/startup-credits.json", "evidence": "Machine-readable open data registry source the page is built from"},
+    {"what": "Sourcey record: Anthropic startup credits", "url": "https://sourcey.com/c/anthropic", "evidence": "Per-vendor credit offer record cited on the page"},
+    {"what": "Sourcey record: Cerebras startup credits", "url": "https://sourcey.com/c/cerebras", "evidence": "Per-vendor credit offer record cited on the page"},
+    {"what": "Sourcey record: Fly.io startup credits", "url": "https://sourcey.com/c/fly-io", "evidence": "Per-vendor credit offer record cited on the page"},
+    {"what": "Sourcey record: MongoDB startup credits", "url": "https://sourcey.com/c/mongodb", "evidence": "Per-vendor credit offer record cited on the page"},
+    {"what": "Sourcey record: OpenRouter startup credits", "url": "https://sourcey.com/c/openrouter", "evidence": "Per-vendor credit offer record cited on the page"},
+    {"what": "Sourcey record: SurrealDB startup credits", "url": "https://sourcey.com/c/surrealdb", "evidence": "Per-vendor credit offer record cited on the page"},
+    {"what": "Sourcey record: Zitadel startup credits", "url": "https://sourcey.com/c/zitadel", "evidence": "Per-vendor credit offer record cited on the page"},
+    {"what": "Citation page live on GitHub Pages", "url": "https://wminno.github.io/agentcredits-landing/", "evidence": "text/html 200, 9553 bytes, sha256 verified 2026-10-30"},
+    {"what": "Byte-identical mirror of citation page", "url": "https://files.catbox.moe/mawtfq.html", "evidence": "Upload receipt; identical sha256 to the live page"}
+  ]
+}
