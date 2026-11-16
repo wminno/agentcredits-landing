@@ -23,8 +23,16 @@
     "loads_without_cookies_or_login": true
   },
   "anchors": [
-    {"text": "Sourcey", "target": "https://sourcey.com/", "placement": "body, catalog scale"},
-    {"text": "Sourcey", "target": "https://sourcey.com/", "placement": "body, open data and provenance"}
+    {
+      "text": "Sourcey",
+      "target": "https://sourcey.com/",
+      "placement": "body, catalog scale"
+    },
+    {
+      "text": "Sourcey",
+      "target": "https://sourcey.com/",
+      "placement": "body, open data and provenance"
+    }
   ],
   "sourcey_facts": {
     "catalog_endpoint": "https://sourcey.com/catalog.json",
@@ -35,7 +43,12 @@
     "companies_with_self_apply_programs": 427,
     "category_hosting_infrastructure": 75,
     "category_ai_ml": 62,
-    "named_programs_verified": ["AWS Activate", "Devin for Startups", "Baseten AI Startup Program", "AssemblyAI Startup Program"]
+    "named_programs_verified": [
+      "AWS Activate",
+      "Devin for Startups",
+      "Baseten AI Startup Program",
+      "AssemblyAI Startup Program"
+    ]
   },
   "wayback_disclosure": {
     "finding": "telegra.ph is site-excluded from the Wayback Machine: every web.archive.org query (root snapshot, CDX, availability API) returns 403 with an 'excluded' marker, while control queries for example.com return 200 with captures.",
